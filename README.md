@@ -1,1 +1,1 @@
-# createRandomColor
+# Создавай рандомные цвета
